@@ -1,0 +1,15 @@
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\bin\Debug\net6.0\ExamenRepre.exe
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\bin\Debug\net6.0\ExamenRepre.deps.json
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\bin\Debug\net6.0\ExamenRepre.runtimeconfig.json
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\bin\Debug\net6.0\ExamenRepre.dll
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\bin\Debug\net6.0\ExamenRepre.pdb
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\obj\Debug\net6.0\ExamenRepre.csproj.AssemblyReference.cache
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\obj\Debug\net6.0\ExamenRepre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\obj\Debug\net6.0\ExamenRepre.AssemblyInfoInputs.cache
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\obj\Debug\net6.0\ExamenRepre.AssemblyInfo.cs
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\obj\Debug\net6.0\ExamenRepre.csproj.CoreCompileInputs.cache
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\obj\Debug\net6.0\ExamenRepre.dll
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\obj\Debug\net6.0\refint\ExamenRepre.dll
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\obj\Debug\net6.0\ExamenRepre.pdb
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\obj\Debug\net6.0\ExamenRepre.genruntimeconfig.cache
+C:\Users\DELL 15\Documents\yareth\c#\ExamenRepre\obj\Debug\net6.0\ref\ExamenRepre.dll
